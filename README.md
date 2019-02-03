@@ -1,5 +1,5 @@
 # Monte-Carlo-method using python3
-#Task
+######Task
 The company makes some articles. The article production cost is 10 Euro. The article price (i.e. the company income) is 15 Euro.
 The article can have defects of two types, denoted as defects A and B. The defects are not related between each other; so, they are possible in any combina-tions. The defect A exists in 6% of articles; the defect B, in 8%. If an article has only one defect, the attempt is made to repair it; the cost of repair is 3 Euro. The repair is successful in 70% of cases; in other cases, the defect cannot be eliminat-ed. If an article has two defects, it is rejected (i.e. it is not repaired and not sold). In case of an unsuccessful repair, an article is also rejected (i.e. it is not sold).
 You must find: 
