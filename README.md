@@ -6,7 +6,7 @@ You must find:
 a) average profit resulting from making one article; 
 b) the probability of making a good article.
 
-...
+```
 import random
 
 
@@ -44,4 +44,4 @@ aver_profit = (profit / n)
 print('The probability of making a good article:',int(aver_good),'%')                
 print('Average profit:',int(aver_profit),'Euro')        
 
-...
+```
