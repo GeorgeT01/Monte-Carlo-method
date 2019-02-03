@@ -45,3 +45,4 @@ print('The probability of making a good article:',int(aver_good),'%')
 print('Average profit:',int(aver_profit),'Euro')        
 
 ```
+![alt text](https://raw.githubusercontent.com/GeorgeT01/Monte-Carlo-method/master/Screenshot%20(3).png)
